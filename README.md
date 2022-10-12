@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Sohaib, a full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Sohaib, a full-stack web developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning TypeScript and working on some projects
