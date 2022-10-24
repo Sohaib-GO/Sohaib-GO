@@ -62,6 +62,6 @@
 <a href="mailto:s.almajmaie@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sohaib-al-majmaie-072677248">
+  <a href="https://www.linkedin.com/in/sohaib-go/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
